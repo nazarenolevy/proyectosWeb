@@ -8847,19 +8847,27 @@ body {
 /* line 60, ../sass/styles.scss */
 .left {
   float: left;
+  width: 100%;
 }
 
-/* line 64, ../sass/styles.scss */
+/* line 65, ../sass/styles.scss */
 .right {
   float: right;
+  width: 100%;
 }
 
-/* line 68, ../sass/styles.scss */
+/* line 70, ../sass/styles.scss */
 .text-separator {
   margin: 5px 0px;
 }
 
-/* line 72, ../sass/styles.scss */
+/* line 74, ../sass/styles.scss */
 .glyphicon {
   color: #88709d;
+}
+
+/* line 78, ../sass/styles.scss */
+.video {
+  text-align: center;
+  margin: 10px;
 }

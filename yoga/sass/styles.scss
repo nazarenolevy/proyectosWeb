@@ -59,10 +59,12 @@ body{
 }
 .left{
   float: left;
+  width: 100%;
 }
 
 .right{
   float:right;
+  width: 100%;
 }
 
 .text-separator{
@@ -71,4 +73,9 @@ body{
 
 .glyphicon{
   color: #88709d;
+}
+
+.video{
+  text-align: center;
+  margin: 10px;
 }
