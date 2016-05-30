@@ -7,6 +7,8 @@
 // Import Bootstrap for Sass
 @import "bootstrap";
 
+@import "font-awesome-compass";
+@import "font-awesome";
 
 body{
   font-family: nunito;
@@ -59,12 +61,10 @@ body{
 }
 .left{
   float: left;
-  width: 100%;
 }
 
 .right{
   float:right;
-  width: 100%;
 }
 
 .text-separator{
