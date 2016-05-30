@@ -79,3 +79,25 @@ body{
   text-align: center;
   margin: 10px;
 }
+
+.teacher{
+  float: left;
+}
+
+.social-media-icon{
+    a{
+      color: #ffffff;
+    };
+
+    background: #3b5998;
+  	color: #fff;
+  	width: 40px;
+  	height: 40px;
+  	border-radius: 20px;
+  	font-size: 25px;
+  	text-align: center;
+  	margin-right: 10px;
+    float: right;
+    padding-top: 5px;
+
+}
