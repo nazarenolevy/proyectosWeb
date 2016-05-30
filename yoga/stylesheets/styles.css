@@ -8844,22 +8844,22 @@ body {
   text-align: justify;
 }
 
-/* line 61, ../sass/styles.scss */
+/* line 60, ../sass/styles.scss */
 .left {
   float: left;
 }
 
-/* line 65, ../sass/styles.scss */
+/* line 64, ../sass/styles.scss */
 .right {
   float: right;
 }
 
-/* line 69, ../sass/styles.scss */
+/* line 68, ../sass/styles.scss */
 .text-separator {
   margin: 5px 0px;
 }
 
-/* line 73, ../sass/styles.scss */
+/* line 72, ../sass/styles.scss */
 .glyphicon {
   color: #88709d;
 }
