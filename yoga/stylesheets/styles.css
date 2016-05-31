@@ -12426,3 +12426,8 @@ body {
   width: 350px;
   height: 350px;
 }
+
+/* line 118, ../sass/styles.scss */
+.class-schedule {
+  font-size: 20px;
+}
