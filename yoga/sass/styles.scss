@@ -49,8 +49,6 @@ body{
 
   margin: 30px 60px;
   padding: 20px 0px;
-  border-bottom: 2px solid #88709d;
-  border-top: 2px solid #88709d;
 
   .main-text{
     font-size: 15px;
@@ -59,6 +57,16 @@ body{
   }
 
 }
+
+.class-row{
+  margin: 30px 60px;
+}
+
+.border{
+  border-bottom: 2px solid #88709d;
+  border-top: 2px solid #88709d;
+}
+
 .left{
   float: left;
 }
@@ -100,4 +108,9 @@ body{
     float: right;
     padding-top: 5px;
 
+}
+
+.calendar{
+  width: 500px;
+  height: 500px;
 }
